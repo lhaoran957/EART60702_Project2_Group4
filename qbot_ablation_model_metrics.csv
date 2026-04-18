@@ -1,0 +1,4 @@
+,MAE (kg/kg),RMSE (kg/kg),R²
+Ridge Regression,0.000531,0.000705,0.900454
+Random Forest,0.000415,0.000565,0.935969
+Gradient Boosting,0.000406,0.000552,0.938973

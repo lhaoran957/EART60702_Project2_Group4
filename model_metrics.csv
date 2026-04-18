@@ -1,0 +1,4 @@
+,MAE (°C),RMSE (°C),R²
+Ridge Regression,0.6016,0.7878,0.9788
+Random Forest,0.5264,0.6977,0.9833
+Gradient Boosting,0.5043,0.6693,0.9847
