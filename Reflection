@@ -1,0 +1,11 @@
+** Reflection
+
+*Haoran Lin
+
+This project helped me improve both my data analysis and machine learning skills. At the start, I mainly focused on predicting daily maximum temperature, but later I understood that the project was also about interpreting climate change more broadly. By adding QBOT, the analysis became more meaningful because it showed not only warming, but also increasing humidity and compound hot-humid risk.
+
+One important lesson I learned was that exploratory data analysis is just as important as modelling. The EDA results helped explain the long-term warming trend, the increase in humidity, and the stronger summer signal. This made the machine learning results easier to understand and interpret. I also learned that a high model score does not automatically mean full physical understanding, especially when some predictors are strongly related to the target variable.
+
+A challenge for me was explaining the results clearly and carefully. In particular, the QBOT analysis made me think more about how to describe humidity, how it interacts with temperature, and how to present model results without overstating them. If I continued this project, I would compare more climate models, apply stricter validation methods, and include more direct evaluation plots for QBOT.
+
+Overall, this project helped me become more confident in handling climate data, interpreting model outputs, and communicating scientific results in a clearer and more critical way.
