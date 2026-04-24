@@ -1,4 +1,4 @@
-** Reflection
+# Reflection
 
 *Haoran Lin
 
@@ -9,3 +9,19 @@ One important lesson I learned was that exploratory data analysis is just as imp
 A challenge for me was explaining the results clearly and carefully. In particular, the QBOT analysis made me think more about how to describe humidity, how it interacts with temperature, and how to present model results without overstating them. If I continued this project, I would compare more climate models, apply stricter validation methods, and include more direct evaluation plots for QBOT.
 
 Overall, this project helped me become more confident in handling climate data, interpreting model outputs, and communicating scientific results in a clearer and more critical way.
+
+*Xinqi Xie
+
+Compared with Project 1, Project 2 was more challenging, and I mainly learned about supervised model learning and its principles of learning and prediction.
+
+## Knowledge gained from the project
+
+Through hands-on practice and group discussions, I gained a basic understanding of how this model learns from labeled data, identifies potential patterns, and makes accurate predictions on new data. I also learned about the basic process of supervised learning, which helped me lay a solid foundation for future related learning and practice.
+
+## My Responsibilities in the Project
+
+Code visualization and the comparison and summary of the analysis and research on maximum maximum temperature and specific humidity. In addition, I carefully sorted out the analysis results of maximum temperature and QBOT, compared their differences and connections, and made a detailed summary to ensure the accuracy and completeness of the project content.
+
+## Teamwork and Problem-Solving
+
+Before we finalized the group’s summary, I often put forward questions about the project content, such as the rationality of code visualization and the accuracy of the comparison results of maximum temperature and QBOT. These questions sometimes led to in-depth discussions among the group. Fortunately, with the joint efforts of my group members, we analyzed each question carefully, put forward solutions. This process not only strengthened our teamwork but also improved my ability to communicate and cooperate with others.
